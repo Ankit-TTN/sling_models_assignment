@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/sling_models_assignment" mode="merge"/>
+    <filter root="/content/sling_models_assignment" mode="merge"/>
+    <filter root="/content/dam/sling_models_assignment" mode="merge"/>
+</workspaceFilter>
